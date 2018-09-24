@@ -1,0 +1,16 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "fall2018 cs570 assignment1 tictactoe",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Wei-Hsuan Wong/ Shih-Hao Lo/ Hao-Ping Lin",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.9",
+    "validate": "^4.5.1"
+  }
+}
